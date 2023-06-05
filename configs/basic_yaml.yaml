@@ -1,0 +1,29 @@
+key: value
+
+dict_name:
+  key1: value1
+  key2: value2
+
+list_name:
+  - item1
+  - item2
+  - item3
+
+multi_line: |
+  This is 
+  a multi-line
+
+address: &address
+  street: NTH
+  zip: 100_000
+  country: JP
+
+person1:
+  name: NTH
+  age: 30
+  address: *address
+
+person2:
+  name: KTG
+  age: 32
+  address: *address

@@ -1,0 +1,20 @@
+[2023-03-12 21:56:39] - xgb1 - start training cv
+[2023-03-12 21:56:39] - xgb1 fold 0 - start training
+[2023-03-12 21:59:26] - xgb1 fold 0 - end training - score 0.4695215286366887
+[2023-03-12 21:59:26] - xgb1 fold 1 - start training
+[2023-03-12 22:02:23] - xgb1 fold 1 - end training - score 0.46344707566228344
+[2023-03-12 22:02:23] - xgb1 fold 2 - start training
+[2023-03-12 22:05:17] - xgb1 fold 2 - end training - score 0.46374106922655556
+[2023-03-12 22:05:17] - xgb1 fold 3 - start training
+[2023-03-12 22:07:55] - xgb1 fold 3 - end training - score 0.45037085046870307
+[2023-03-12 22:07:56] - xgb1 - end training cv - score 0.4617701309985577
+[2023-03-12 22:07:56] - xgb1 - start prediction cv
+[2023-03-12 22:07:56] - xgb1 - start prediction fold:0
+[2023-03-12 22:07:58] - xgb1 - end prediction fold:0
+[2023-03-12 22:07:58] - xgb1 - start prediction fold:1
+[2023-03-12 22:08:01] - xgb1 - end prediction fold:1
+[2023-03-12 22:08:01] - xgb1 - start prediction fold:2
+[2023-03-12 22:08:04] - xgb1 - end prediction fold:2
+[2023-03-12 22:08:04] - xgb1 - start prediction fold:3
+[2023-03-12 22:08:06] - xgb1 - end prediction fold:3
+[2023-03-12 22:08:06] - xgb1 - end prediction cv
